@@ -8,7 +8,7 @@ const ProductDetailsScreen = () => {
     console.warn("add to cart");
   };
   return (
-    <View style={{paddingBottom: 50}}>
+    <View>
       <ScrollView>
         {/* Image Carousel */}
         <FlatList
